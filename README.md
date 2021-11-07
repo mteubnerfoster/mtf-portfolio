@@ -1,6 +1,6 @@
 # Megan Teubner-Foster's Portfolio
 
-This is a project for the UW Coding Boot Camp for week two. In this project, we are creating a portfolio which will evolve as the course progresses.
+I have created a portfolio which will evolve as I build more applications and collaborate with other coders on projects.
 
 ## Preview
 
